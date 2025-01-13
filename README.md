@@ -1,6 +1,6 @@
 # merge-together
 
-I
+We
 want
 mint
 ice
